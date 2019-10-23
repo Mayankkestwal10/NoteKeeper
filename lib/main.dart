@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:notekeeper/note_detail.dart';
 import 'package:notekeeper/note_list.dart';
 
 void main() => runApp(MyApp());
